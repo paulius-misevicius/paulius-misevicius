@@ -8,7 +8,7 @@ Before this, I spent a few years in customer support, AML/compliance, and freela
 
 ### 🔨 Projects
 
-**[GuestMe](https://guestme.eu)** - a two-sided marketplace connecting European tattoo artists and studios for guest spots.
+**[Guestme](https://guestme.eu)** - a two-sided marketplace connecting European tattoo artists and studios for guest spots.
 Built with React, Vite, and Firebase (Firestore, Auth, Storage). Repo is private - try the [live demo](https://guestme-demo.netlify.app) instead, seeded with sample data so you can explore without signing up.
 
 **[Watchlist](https://paulius-watchlist.netlify.app)** - a movie watchlist app built with vanilla JS to nail down fundamentals (DOM, state, API calls).
