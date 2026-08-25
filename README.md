@@ -1,17 +1,22 @@
 ### Hi, I'm Paulius 👋
 
-Self-taught web developer based in Kaunas, Lithuania. Currently focused on frontend (React) and expanding into full-stack development.
+Self-taught web developer based in Kaunas, Lithuania. I build web applications with a focus on React and am continuing to expand into full-stack development.
 
-Before this, I spent a few years in customer support, AML/compliance, and freelance marketing - the technical side of that work (small PHP/JS snippets, automations, WordPress) is what pulled me toward programming.
+Before this, I spent a few years in customer support, AML/compliance, and freelance marketing. The technical side of that work is what pulled me toward programming.
 
 ---
 
 ### 🔨 Projects
 
-**[Guestme](https://guestme.eu)** - a two-sided marketplace connecting European tattoo artists and studios for guest spots.
-Built with React, Vite, and Firebase (Firestore, Auth, Storage). Repo is private - try the [live demo](https://guestme-demo.netlify.app) instead, seeded with sample data so you can explore without signing up.
+**[Yapper](https://yapper-client.netlify.app)** - a full-stack, Reddit-inspired message board where users can join communities, create posts, participate in threaded discussions, vote on content, and manage their accounts.
+Built with React, TypeScript, Express, PostgreSQL, and session-based authentication.
+→ [Repo](https://github.com/paulius-misevicius/yapper)
 
-**[Watchlist](https://paulius-watchlist.netlify.app)** - a movie watchlist app built with vanilla JS to nail down fundamentals (DOM, state, API calls).
+**[Guestme](https://guestme.eu)** - a two-sided marketplace connecting European tattoo artists and studios for guest spots.
+Built with React, Vite, and Firebase (Firestore, Auth, Storage). Try the [live demo](https://guestme-demo.netlify.app) instead, seeded with sample data so you can explore without signing up.
+→ [Repo](https://github.com/paulius-misevicius/guestspot)
+
+**[Watchlist](https://paulius-watchlist.netlify.app)** - a movie watchlist app built with vanilla JS to nail down fundamentals such as DOM manipulation, state, and API calls.
 → [Repo](https://github.com/paulius-misevicius/movie-watchlist)
 
 **[Trivia Game](https://paulius-trivia.netlify.app)** - a React quiz app exploring Context, hooks, and async state handling.
@@ -21,9 +26,9 @@ Built with React, Vite, and Firebase (Firestore, Auth, Storage). Repo is private
 
 ### 🧰 Tech I work with
 
-`JavaScript` `React` `Firebase` `Vite` `HTML` `CSS` `Git`
+`JavaScript` `TypeScript` `React` `Express` `PostgreSQL` `Firebase` `Vite` `HTML` `CSS` `Git`
 
-Currently learning: `Express` `SQL`
+Currently continuing to learn and build with: `Node.js` `SQL` `Backend Development`
 
 ---
 
