@@ -16,11 +16,11 @@ Built with React, TypeScript, Express, PostgreSQL, and session-based authenticat
 Built with React, Vite, and Firebase (Firestore, Auth, Storage). Try the [live demo](https://guestme-demo.netlify.app) instead, seeded with sample data so you can explore without signing up.
 → [Repo](https://github.com/paulius-misevicius/guestspot)
 
-**[Watchlist](https://paulius-watchlist.netlify.app)** - a movie watchlist app built with vanilla JS to nail down fundamentals such as DOM manipulation, state, and API calls.
-→ [Repo](https://github.com/paulius-misevicius/movie-watchlist)
-
 **[Trivia Game](https://paulius-trivia.netlify.app)** - a React quiz app exploring Context, hooks, and async state handling.
 → [Repo](https://github.com/paulius-misevicius/trivia-game)
+
+**[Watchlist](https://paulius-watchlist.netlify.app)** - a movie watchlist app built with vanilla JS to nail down fundamentals such as DOM manipulation, state, and API calls.
+→ [Repo](https://github.com/paulius-misevicius/movie-watchlist)
 
 ---
 
